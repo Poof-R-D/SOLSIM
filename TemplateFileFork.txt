@@ -1,0 +1,3 @@
+template formatted repo for easy forking.
+
+*Note to users/contributors*
